@@ -22,7 +22,7 @@ Follow these steps to get the project up and running:
 First, clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/Shelbybosss/Poetry-haven.git
 cd poetry
 npm install
 npm run dev
